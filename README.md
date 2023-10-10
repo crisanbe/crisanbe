@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/cristianv%C3%A9lez">Cristian Vélez</a> 😃</h1>
+<h1 align="center">Hello, I am<a href="https://www.linkedin.com/in/cristianv%C3%A9lez">Cristian Vélez</a> 😃</h1>
 </div>
 <img src="https://i.imgur.com/8SM6OJxh.png">
 
 <br>
-## Sobre mi
+## About me
 
 - 📲 Mobile developer
 - Ingeniero de software con más de dos años de experiencia en desarrollo de aplicaciones
