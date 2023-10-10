@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Cristian Vélez</a> 😃</h1>
+<h1 align="center">Hola, soy <a href="www.linkedin.com/in/cristianvélez">Cristian Vélez</a> 😃</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://i.imgur.com/8SM6OJxh.png)">
+<img src="https://i.imgur.com/8SM6OJxh.png">
 
 [![YouTube Channel Subscribers](www.linkedin.com/in/cristianvélez)
 
