@@ -7,7 +7,6 @@
 ## Sobre mi
 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+34k subs)
 - Ingeniero de software con más de dos años de experiencia en desarrollo de aplicaciones
 mobile, Android nativo con Kotlin. He contribuido en un par de proyectos en Freislain.
 En Flutter, he diseñado interfaces atractivas y coherentes para Android e iOS.
