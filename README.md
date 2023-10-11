@@ -38,6 +38,8 @@ También cuento con conosimientos en Swift y SwiftUI para el desarrollo nativo e
 #### IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![SAndroid Studio](https://img.shields.io/badge/Androd%20Studio%20-fcfcfc?style=or-the-badge&logo=Android%20studio&logoColor=%23fcfcfc&labelColor=2f732f&color=fcfcfc)&nbsp;
+
 
 
 <!--
