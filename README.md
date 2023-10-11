@@ -2,7 +2,8 @@
 <h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/cristianv%C3%A9lez">Cristian Vélez</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/8SM6OJxh.png">
-![Static Badge](https://img.shields.io/badge/Linkedin--42ecf5?style=social&logo=Linkedin&logoColor=%23133ecf&labelColor=42ecf5&color=%2342ecf5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianv%25C3%25A9lez%2F)
+
+[![Linkedin]([https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1](https://img.shields.io/badge/Linkedin-42ecf5?style=social&logo=Linkedin&logoColor=%23133ecf&labelColor=42ecf5&color=42ecf5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianv%25C3%25A9lez%2F))
 
 
 ## About me
