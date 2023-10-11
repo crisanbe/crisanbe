@@ -6,7 +6,7 @@
 ![Linkedin](https://img.shields.io/badge/Linkedin-42ecf5?style=social&logo=Linkedin&logoColor=%23133ecf&labelColor=42ecf5&color=42ecf5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianv%25C3%25A9lez%2F)
 
 
-## About me
+#### About me
 
 - 📲 Mobile developer
 - Ingeniero de software con más de dos años de experiencia en desarrollo de aplicaciones
@@ -15,7 +15,7 @@ En Flutter, he diseñado interfaces atractivas y coherentes para Android e iOS.
 También cuento con conosimientos en Swift y SwiftUI para el desarrollo nativo en iOS.
 
 <br>
-### Skills:
+#### Skills:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-101bef)&nbsp;
 ![Java](https://img.shields.io/badge/Java-51ae5d)&nbsp;
