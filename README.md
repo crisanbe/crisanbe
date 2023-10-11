@@ -40,6 +40,14 @@ También cuento con conosimientos en Swift y SwiftUI para el desarrollo nativo e
 ![Android Studio](https://img.shields.io/badge/Androd%20Studio%20-fcfcfc?style=for-the-badge&logo=Android%20studio&logoColor=%23fcfcfc&labelColor=2f732f&color=fcfcfc)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode%20-fcfcfc?style=for-the-badge&logo=Xcode&logoColor=%23fcfcfc&labelColor=205bc9&color=000000)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crisanbe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crisanbe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
