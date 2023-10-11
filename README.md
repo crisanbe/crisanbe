@@ -14,7 +14,7 @@ mobile, Android nativo con Kotlin. He contribuido en un par de proyectos en Frei
 En Flutter, he diseñado interfaces atractivas y coherentes para Android e iOS.
 También cuento con conosimientos en Swift y SwiftUI para el desarrollo nativo en iOS.
 
-#### Skills:
+#### Skills
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-101bef)&nbsp;
 ![Java](https://img.shields.io/badge/Java-51ae5d)&nbsp;
