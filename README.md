@@ -27,6 +27,7 @@ También cuento con conosimientos en Swift y SwiftUI para el desarrollo nativo e
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase%20-fcfcfc?style=for-the-badge&logo=Firebase&logoColor=%23f7c436&labelColor=0f0e0c&color=000000)
 
 #### Tools and Technologies
 
