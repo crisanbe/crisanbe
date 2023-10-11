@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/8SM6OJxh.png">
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-42ecf5?style=social&logo=Linkedin&logoColor=%23133ecf&labelColor=42ecf5&color=42ecf5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianv%25C3%25A9lez%2F)
+![Linkedin](https://img.shields.io/badge/Linkedin-42ecf5?style=social&logo=Linkedin&logoColor=%23133ecf&labelColor=42ecf5&color=42ecf5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianv%25C3%25A9lez%2F)
 
 
 ## About me
